@@ -1,0 +1,1 @@
+This file was created from prompt cmd line, which start notepad.
